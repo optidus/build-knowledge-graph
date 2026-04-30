@@ -8,8 +8,8 @@ What you need
 * A short description of your domain
 * A few examples of the business questions you want to answer
 What you get
-✅ Automatic node and edge identification with reasoning
-✅ A CREATE PROPERTY GRAPH DDL statement, ready to run
-✅ 5 sample GQL queries tailored to your graph and business questions
+* ✅ Automatic node and edge identification with reasoning
+* ✅ A CREATE PROPERTY GRAPH DDL statement, ready to run
+* ✅ 5 sample GQL queries tailored to your graph and business questions
 
 
